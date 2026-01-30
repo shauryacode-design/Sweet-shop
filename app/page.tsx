@@ -80,7 +80,7 @@ export default function Home() {
           <div className="section3-container">
             <div className="card">
               <div className="img">
-                <img src="/images/kaju-katli.png" alt="" /></div>
+                <img src="/images/Kaju-Katli.png" alt="" /></div>
               <h3>Kaju Katli</h3>
               <p>Pure cashew • Rich taste • Premium favourite</p>
               <button onClick={scrollToContact}>Order Now</button>
