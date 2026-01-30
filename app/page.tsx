@@ -209,7 +209,7 @@ export default function Home() {
         </div>
         <div className="fifth-section" id="contact">
           <div className="contact">
-            <h1>Get In Touch</h1>
+            <h1>Visit Us Today</h1>
             <div className="flourish-divider_fifth">
               <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
                 <path d="M 15,30 Q 20,15 30,20 Q 40,25 45,30 Q 40,35 30,40 Q 20,45 15,30 Z"
