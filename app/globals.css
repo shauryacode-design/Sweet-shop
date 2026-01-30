@@ -880,6 +880,7 @@ body {
 }
 
 .footer-whatsapp {
+  cursor: pointer;
   margin-top: 10px;
   background-color: maroon;
   border: 2px solid gold;
