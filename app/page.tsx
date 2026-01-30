@@ -26,12 +26,12 @@ export default function Home() {
               <h1>Pure & Traditional <strong>Indian Sweets</strong></h1>
               <h3>Freshly prepared mithai for festivals, weddings, and everyday joy.</h3>
               <button onClick={openWhatsApp}>Order on Whatsapp</button>
-              
+
             </div>
             <div className="right-image">
               <img src="/images/hero-section.png" alt="" />
             </div>
-            
+
           </div>
           <h3>⭐ 500+ happy customers</h3>
         </div>
@@ -80,7 +80,7 @@ export default function Home() {
           <div className="section3-container">
             <div className="card">
               <div className="img">
-                <img src="/images/Kaju-Katli.png" alt="" /></div>
+                <img src="/images/kaju-katli.png" alt="" /></div>
               <h3>Kaju Katli</h3>
               <p>Pure cashew • Rich taste • Premium favourite</p>
               <button onClick={scrollToContact}>Order Now</button>
@@ -284,13 +284,13 @@ export default function Home() {
               <h3>Contact</h3>
               <p>📞 +91 XXXXXXXXXX</p>
               <p>📧 owner@gmail.com</p>
-              <a
-                href="https://wa.me/919319649564"
-                target="_blank"
+              <button
+                type="button"
                 className="footer-whatsapp"
+                onClick={openWhatsApp}
               >
                 💬 Order on WhatsApp
-              </a>
+              </button>
             </div>
 
           </div>
