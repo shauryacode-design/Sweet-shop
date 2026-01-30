@@ -248,7 +248,7 @@ export default function Home() {
             </div>
 
             <div className="map-container">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3443.3515001332453!2d78.04802477535694!3d30.340958774775558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390929d976b57665%3A0x3a615a544b5e4cba!2sGajendra%20Sweets%20and%20Dairy%20Products!5e0!3m2!1sen!2sin!4v1769747904545!5m2!1sen!2sin" style={{ border: '0' }} loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13774.071113947835!2d78.03589658715822!3d30.336231399999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390929a0a1df9e35%3A0x97eb3adb716b8f23!2sAnandpuri%20Caterers%20-%20Catering%20%2C%20Event%20Planner%20in%20Dehradun!5e0!3m2!1sen!2sin!4v1769770587003!5m2!1sen!2sin" style={{ border: '0' }} loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
 
               <p className="address">
                 <strong>📍 Abc Sweet shop</strong><br />
