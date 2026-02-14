@@ -248,8 +248,7 @@ export default function Home() {
             </div>
 
             <div className="map-container">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13774.071113947835!2d78.03589658715822!3d30.336231399999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390929a0a1df9e35%3A0x97eb3adb716b8f23!2sAnandpuri%20Caterers%20-%20Catering%20%2C%20Event%20Planner%20in%20Dehradun!5e0!3m2!1sen!2sin!4v1769770587003!5m2!1sen!2sin" style={{ border: '0' }} loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
-
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110204.75443569123!2d77.93473309708199!3d30.325402625617453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390929c356c888af%3A0x4c3562c032518799!2sDehradun%2C%20Uttarakhand!5e0!3m2!1sen!2sin!4v1771080805864!5m2!1sen!2sin" style={{ border: '0' }} loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
               <p className="address">
                 <strong>📍 Abc Sweet shop</strong><br />
                 Main Road, Near City Mall<br />
